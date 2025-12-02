@@ -1,5 +1,6 @@
 # To-Do : Contribution
-- [ ] Progressive Assurance Case Report - Addendum for Stage 2
+- [ ] Progressive Assurance Case Report - Addendum for Stage 2 - FU BC re OS CRF and T&C Records
+
 - [ ] Systems Acceptance Review
 - [ ] System Assurance Completions Plan
 
