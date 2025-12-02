@@ -1,10 +1,11 @@
 # To-Do : Contribution
-- [ ] Progressive Assurance Case Report - Addendum for Stage 2 - FU BC re OS CRF and T&C Records
+- [ ] Progressive Assurance Case Report - Addendum for Stage 2 - 2025-12-02 FU BC re OS CRF and T&C Records
 
 - [ ] Systems Acceptance Review
+
 - [ ] System Assurance Completions Plan
 
-- [ ] RAM Demonstration Test Report - Independent Reviewer
+- [x] RAM Demonstration Test Report - Independent Reviewer
 - [ ] Lighting Design Notifcation Request - Check the V&V Management Plan for Andrew Jenkinson
 
 - [ ] Open Items Register - Check CCO and Close-Out Comments w. Stakeholders
